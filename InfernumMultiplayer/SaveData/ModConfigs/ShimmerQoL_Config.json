@@ -1,0 +1,62 @@
+{
+  "prefixWhitelist": [
+    {
+      "Name": "Legendary",
+      "DisplayName": "Legendary"
+    },
+    {
+      "Name": "Mythical",
+      "DisplayName": "Mythical"
+    },
+    {
+      "Name": "Unreal",
+      "DisplayName": "Unreal"
+    },
+    {
+      "Name": "Ruthless",
+      "DisplayName": "Ruthless"
+    },
+    {
+      "Name": "Light",
+      "DisplayName": "Light"
+    },
+    {
+      "Name": "Godly",
+      "DisplayName": "Godly"
+    },
+    {
+      "Name": "Demonic",
+      "DisplayName": "Demonic"
+    },
+    {
+      "Name": "Warding",
+      "DisplayName": "Warding"
+    },
+    {
+      "Name": "Menacing",
+      "DisplayName": "Menacing"
+    },
+    {
+      "Name": "Lucky",
+      "DisplayName": "Lucky"
+    },
+    {
+      "Name": "Arcane",
+      "DisplayName": "Arcane"
+    },
+    {
+      "Name": "Quick2",
+      "DisplayName": "Quick"
+    },
+    {
+      "Name": "Violent",
+      "DisplayName": "Violent"
+    },
+    {
+      "Mod": "CalamityMod",
+      "Name": "Camouflaged",
+      "DisplayName": "Camouflaged"
+    }
+  ],
+  "aetherPylonNPCS": 0
+}

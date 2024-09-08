@@ -1,0 +1,5 @@
+{
+  "TownNPCsSpawnAtNight": true,
+  "TownNPCSpawnRateMultiplier": 2,
+  "BossHealthBoost": 25.0
+}

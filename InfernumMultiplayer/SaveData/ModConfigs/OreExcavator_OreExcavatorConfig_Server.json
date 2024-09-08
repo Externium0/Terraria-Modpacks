@@ -1,0 +1,35 @@
+{
+  "manaConsumption": 0.0,
+  "oreMultiplier": 1.0,
+  "tileBlacklist": [
+    "Terraria:Stone",
+    "Terraria:Sand",
+    "Terraria:Sandstone",
+    "Terraria:Ebonstone",
+    "Terraria:Crimstone",
+    "Terraria:Pearlstone",
+    "Terraria:BlueDungeonBrick",
+    "Terraria:GreenDungeonBrick",
+    "Terraria:PinkDungeonBrick",
+    "Terraria:Containers",
+    "Terraria:Pots",
+    "Terraria:Heart",
+    "CalamityMod:NavyStone",
+    "Terraria:Dirt",
+    "Terraria:ice",
+    "Terraria:Mud"
+  ],
+  "wallBlacklist": [
+    "Terraria:SpiderUnsafe",
+    "Terraria:BlueDungeonUnsafe",
+    "Terraria:PinkDungeonUnsafe",
+    "Terraria:GreenDungeonUnsafe",
+    "Terraria:BlueDungeonTileUnsafe",
+    "Terraria:PinkDungeonTileUnsafe",
+    "Terraria:GreenDungeonTileUnsafe",
+    "Terraria:BlueDungeonSlabUnsafe",
+    "Terraria:PinkDungeonSlabUnsafe",
+    "Terraria:GreenDungeonSlabUnsafe",
+    "Terraria:"
+  ]
+}

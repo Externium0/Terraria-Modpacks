@@ -3,3 +3,4 @@
 Download the file <br>
 Go to TModLoader > Workshop > Modpacks > Open Modpack Folder <br>
 Drag and drop the file <br>
+That's it! <br>

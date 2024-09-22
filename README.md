@@ -4,5 +4,5 @@ Download the file <br>
 Go to TModLoader > Workshop > Modpacks > Open Modpack Folder <br>
 Drag and drop the file <br>
 Go back to Modpacks <br>
-Click [Enable this list] <br>
+Click [Enable only this list] <br>
 That's it! <br>
